@@ -84,8 +84,8 @@ UserData(
 - **Pydantic**: Used here for real-time data validation.  
 - **Type Hints**: Python’s way of declaring data types (e.g., `str`, `float`).  
 
-**Perfect for**: Students, new developers, or anyone who wants to ensure their Python apps handle data safely! 🌟  
+---
+
+🔧 *For setup instructions, see the main README file.*  
 
 --- 
-
-**Feel free to tweak the rules (like adding new colors or stricter limits) and experiment!** 🚀
